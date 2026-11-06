@@ -1,0 +1,8 @@
+{
+  "name": "ApexForge AI Software Factory",
+  "description": "Autonomous multi-agent software engineering dashboard for microservice blueprinting, worker agent monitoring, and full-stack Python FastAPI and React/Tailwind code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
